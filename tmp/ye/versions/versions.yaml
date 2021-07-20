@@ -1,0 +1,3 @@
+applogic:
+  image:
+    tag: 1.0.10
